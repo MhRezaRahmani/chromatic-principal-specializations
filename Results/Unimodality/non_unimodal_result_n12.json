@@ -1,0 +1,13 @@
+{
+  "n": 12,
+  "workers_used": 16,
+  "expected_trees": 551,
+  "total_trees_checked": 551,
+  "verified_complete": true,
+  "elapsed_seconds": 0.6089248657226562,
+  "found": false,
+  "tree_index": null,
+  "graph6": null,
+  "coefficients": null,
+  "errors": []
+}
