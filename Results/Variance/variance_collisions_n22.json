@@ -1,0 +1,14 @@
+{
+  "n": 22,
+  "workers_used": 16,
+  "pad_to_max_degree": false,
+  "expected_trees": 5623756,
+  "total_trees_checked": 5623756,
+  "verified_complete": true,
+  "unique_exact_variances": 5623756,
+  "all_variances_unique": true,
+  "collision_groups_count": 0,
+  "elapsed_seconds": 7912.0,
+  "collisions": [],
+  "errors": []
+}
