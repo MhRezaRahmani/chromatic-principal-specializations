@@ -1,1 +1,0 @@
-# chromatic-principal-specializations
